@@ -1,0 +1,10 @@
+{
+  "editor.fontSize": 25,
+  "terminal.integrated.fontSize": 20,
+  "editor.tabSize": 2,
+  "editor.insertSpaces": true,
+  "editor.detectIndentation": false,
+  "editor.codeActionsOnSave": {
+    "source.fixAll": "always"
+  }
+}
